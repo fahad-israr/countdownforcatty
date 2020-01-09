@@ -13,3 +13,5 @@ colors: #(Optional)
   textcolor: "#FFF" #color of the text, which is overlayed on the primary color
 fontfamily: "'Open Sans', sans-serif" #optional
 
+
+theme: jekyll-theme-cayman

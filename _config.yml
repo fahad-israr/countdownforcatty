@@ -7,10 +7,9 @@ url: "http://fahad-israr.github.io" #(Optional) the full URL for this countdown 
 facebookEventLink: #(Optional) if you have a facebook event, put the link here and we'll add a "RSVP on facebook" link at the bottom.
 hashtag: "" #(Optional) hashtag for the event, example "#hashtag". must be in quotes.
 colors: #(Optional)
-  background: "#FFF" #color of the background of the page
-  primary: "#3FBFBC" #primary color for the page
+  background: "#000" #color of the background of the page
+  primary: "#EE4823" #primary color for the page
   secondary: "#EE4823" #secondary color for the page
   textcolor: "#FFF" #color of the text, which is overlayed on the primary color
 fontfamily: "'Open Sans', sans-serif" #optional
 
-theme: jekyll-theme-minimal

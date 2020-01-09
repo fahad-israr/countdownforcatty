@@ -14,4 +14,3 @@ colors: #(Optional)
 fontfamily: "'Open Sans', sans-serif" #optional
 
 
-theme: jekyll-theme-cayman
